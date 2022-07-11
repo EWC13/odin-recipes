@@ -1,0 +1,131 @@
+h1 {
+    font-size: 50px;
+    color:white;
+    text-align: center;
+    background-color: green;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana;
+}
+
+img{
+    text-align: center;
+    width: 800px;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+p {
+    font-size: 25px;
+    text-align: center;
+    background-color: white;
+    color: green;
+    font-family: serif;
+    margin-left:500px;
+    margin-right:500px;
+}
+
+strong{
+    color: white;
+    background-color:green;
+}
+
+body{
+    background-color: beige;
+}
+
+ul{
+    font-size:25px;
+    color:green;
+    background-color:white;
+    margin-right:800px;
+    margin-left:825px;
+}
+
+
+.carne{
+    font-family: Papyrus;
+}
+
+.spaghetti{
+    font-family: Papyrus;
+}
+
+h2{
+    background-color: green;
+    color:white;
+    font-size: 40px;
+    text-align: center;
+    margin-right: 750px;
+    margin-left: 750px;
+}
+
+dd{
+    color:green;
+    background-color: white;
+    font-size:25px
+}
+
+h4{
+    background-color: green;
+    color:white;
+    font-size: 30px;
+    text-align: center;
+    margin-right: 750px;
+    margin-left: 750px;
+}
+
+#boom{
+    background-color: white;
+    color:green;
+}
+
+#steps{
+    text-align: center;
+    margin-left:0;
+    margin-right:1760px;
+    font-size:25px;
+}
+
+h3{
+    background-color: green;
+    color:white;
+    font-size: 25px;
+    text-align:center;
+    margin-right: 1760px;
+}
+
+.ingredientslist{
+    background-color: white;
+    color:green;
+    font-size: 20px;
+    font-family: Cambria;
+    margin-right:1100px;
+    margin-left:0px
+}
+
+ol{
+    background-color:white;
+    color:green;
+    font-size:20px;
+    margin-right:900px;
+}
+
+#question{
+    margin-right:750px;
+    margin-left:750px;
+    text-align: center;
+}
+
+.returnlink{
+    background-color: white;
+    color:green;
+    margin-left:890px;
+    margin-right:650px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+a{
+    color:green;
+}
