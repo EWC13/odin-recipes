@@ -37,15 +37,6 @@ ul{
     color:green;
 }
 
-
-.carne{
-    font-family: Papyrus;
-}
-
-.spaghetti{
-    font-family: Papyrus;
-}
-
 h2{
     background-color: green;
     color:white;
@@ -58,6 +49,54 @@ dd{
     font-size:25px
 }
 
+h3{
+    color:green;
+    font-size: 25px;
+}
+
+ol{
+    color:green;
+    font-size:20px;
+}
+
+.carne{
+    font-family: Papyrus;
+}
+
+.spaghetti{
+    font-family: Papyrus;
+}
+
+.bold, .link{
+    color:purple;
+}
+
+.summer{
+    color:white;
+    background-color: green;
+}
+
+.ingredientslist{
+    color:green;
+    font-size: 20px;
+    font-family: Cambria;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.returnlink{
+    color:green;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+
+.link{
+    color:purple;
+}
 
 #boom{
     background-color: white;
@@ -77,49 +116,7 @@ dd{
     text-align: center;
 }
 
-h3{
-    color:green;
-    font-size: 25px;
-}
-
-.ingredientslist{
-    color:green;
-    font-size: 20px;
-    font-family: Cambria;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-ol{
-    color:green;
-    font-size:20px;
-}
-
-.returnlink{
-    color:green;
-    font-size: 20px;
-    font-weight: bold;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    background-color: white;
-}
-
-
-.link{
-    color:purple;
-}
-
 #spaghsteps{
     color:green;
     font-size:20px;
-}
-
-.bold, .link{
-    color:purple;
-}
-
-.summer{
-    color:white;
-    background-color: green;
 }
