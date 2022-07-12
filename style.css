@@ -18,16 +18,14 @@ img{
 p {
     font-size: 25px;
     text-align: center;
-    background-color: white;
     color: green;
     font-family: serif;
-    margin-left:500px;
-    margin-right:500px;
+    margin-left:auto;
+    margin-right:auto;
 }
 
 strong{
     color: white;
-    background-color:green;
 }
 
 body{
@@ -37,9 +35,6 @@ body{
 ul{
     font-size:25px;
     color:green;
-    background-color:white;
-    margin-right:800px;
-    margin-left:825px;
 }
 
 
@@ -56,24 +51,13 @@ h2{
     color:white;
     font-size: 40px;
     text-align: center;
-    margin-right: 750px;
-    margin-left: 750px;
 }
 
 dd{
     color:green;
-    background-color: white;
     font-size:25px
 }
 
-h4{
-    background-color: green;
-    color:white;
-    font-size: 30px;
-    text-align: center;
-    margin-right: 750px;
-    margin-left: 750px;
-}
 
 #boom{
     background-color: white;
@@ -81,51 +65,61 @@ h4{
 }
 
 #steps{
-    text-align: center;
-    margin-left:0;
-    margin-right:1760px;
     font-size:25px;
+    text-align: left;
+    color: green;
+}
+
+#started{
+    background-color: green;
+    color:white;
+    font-size: 30px;
+    text-align: center;
 }
 
 h3{
-    background-color: green;
-    color:white;
+    color:green;
     font-size: 25px;
-    text-align:center;
-    margin-right: 1760px;
 }
 
 .ingredientslist{
-    background-color: white;
     color:green;
     font-size: 20px;
     font-family: Cambria;
-    margin-right:1100px;
-    margin-left:0px
+    margin-left: auto;
+    margin-right: auto;
 }
 
 ol{
-    background-color:white;
     color:green;
     font-size:20px;
-    margin-right:900px;
-}
-
-#question{
-    margin-right:750px;
-    margin-left:750px;
-    text-align: center;
 }
 
 .returnlink{
-    background-color: white;
     color:green;
-    margin-left:890px;
-    margin-right:650px;
     font-size: 20px;
     font-weight: bold;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
 }
 
-a{
+
+.link{
+    color:purple;
+}
+
+#spaghsteps{
     color:green;
+    font-size:20px;
+}
+
+.bold, .link{
+    color:purple;
+}
+
+.summer{
+    color:white;
+    background-color: green;
 }
